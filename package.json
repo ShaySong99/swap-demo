@@ -27,6 +27,7 @@
     "class-variance-authority": "^0.7.1",
     "date-fns": "^4.1.0",
     "date-fns-tz": "^3.2.0",
+    "ethers": "^6.13.5",
     "immer": "^10.1.1",
     "jotai": "^2.11.0",
     "ky": "^1.7.4",
